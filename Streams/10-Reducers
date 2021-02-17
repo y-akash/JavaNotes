@@ -1,0 +1,10 @@
+/*
+count()
+anyMatch(predicate)
+allMatch(predicate)
+noneMatch(predicate)
+findFirst()
+findAny()
+max(comparator)
+min(comparator)
+*/

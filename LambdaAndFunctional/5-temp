@@ -1,0 +1,19 @@
+// there are 4 types of functional interfaces in java
+// consumer, supplier, function, predicate
+// all the functional interface fall into these catogories
+
+// CONSUMER INTERFACE
+// it take argument and does not return value
+// void consume(obj)
+
+// SUPPLIER INTERFACE
+// it does not take argument but it returns value
+// obj supply()
+
+// FUNCTION INTERFACE
+// it map the value to the other value
+// obj map(obj)
+
+// PREDICATE INTERFACE
+// it takes the object and check the criteria and return based on that
+// bool test(condition)

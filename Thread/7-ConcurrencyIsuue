@@ -1,0 +1,8 @@
+Race Condition
+    Sometimes multiple threads try to modify the same data at same time they may get wrong result or 
+    application can be crashed such scenerio is called race condition where multiple treads are racing to modify the same data
+Visibility problem
+    if one thread changes the data and this change is not visible to another thread such scenerio is called Visibility problem
+
+
+so to overcome this we use Thread-safe code 

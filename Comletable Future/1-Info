@@ -1,0 +1,2 @@
+CompletableFuture class implements Future interface
+It is used to build Asynchronous operation

@@ -1,0 +1,8 @@
+Strategis for Thread Safety
+    Confinement
+        Not to share data across threads here we restrict the each thread to have its own data.
+    Immutability
+    Synchronization (Try to avoid this bcoz it it not concurrent)
+        Lock
+    Atomic objects
+    Partitioning
