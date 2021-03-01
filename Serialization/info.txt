@@ -1,0 +1,12 @@
+Serialization is a process of converting an object into a sequence of bytes 
+which can be persisted to a disk or database or can be sent through streams. 
+The reverse process of creating object from sequence of bytes is called deserialization. 
+
+A java object is serializable if its class or any of its subclasses implements java.io.Serializable or 
+its subinterface java.io.Externalizable interface. 
+
+The entire process is JVM independent, meaning an object can be serialized on one platform and 
+deserialized on an entirely different platform. 
+
+Classes ObjectinputStream and ObjectOutputStream are high-level streams 
+that contain the methods for serializing and deserializing an object.

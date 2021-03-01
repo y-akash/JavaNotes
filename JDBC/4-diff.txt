@@ -1,0 +1,8 @@
+Statements
+    Static
+    Slow execuution
+    Doesn't prevent SQL injection
+Prepared Statements
+    dynamic
+    Faster execuution
+    Helps to prevent SQL injection
